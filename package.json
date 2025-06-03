@@ -25,7 +25,6 @@
   "homepage": "https://github.com/xadlabs/editorjs-text-color-plugin.git#readme",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^26.0.1",
-    "vite": "^5.3.3",
     "vite-plugin-css-injected-by-js": "^3.5.1"
   }
 }

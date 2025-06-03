@@ -386,7 +386,7 @@ vite-plugin-css-injected-by-js@^3.5.1:
   resolved "https://mirrors.cloud.tencent.com/npm/vite-plugin-css-injected-by-js/-/vite-plugin-css-injected-by-js-3.5.1.tgz"
   integrity sha512-9ioqwDuEBxW55gNoWFEDhfLTrVKXEEZgl5adhWmmqa88EQGKfTmexy4v1Rh0pAS6RhKQs2bUYQArprB32JpUZQ==
 
-vite@^5.3.3, vite@>2.0.0-0:
+vite@>2.0.0-0:
   version "5.3.3"
   resolved "https://mirrors.cloud.tencent.com/npm/vite/-/vite-5.3.3.tgz"
   integrity sha512-NPQdeCU0Dv2z5fu+ULotpuq5yfCS1BzKUIPhNbP3YBfAMGJXbt2nS+sbTFu+qchaqWTD+H3JK++nRwr6XIcp6A==
